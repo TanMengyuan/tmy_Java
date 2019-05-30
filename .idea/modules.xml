@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01quickstart/spring01quickstart.iml" filepath="$PROJECT_DIR$/spring01quickstart/spring01quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03wiring_auto/spring03wiring_auto.iml" filepath="$PROJECT_DIR$/spring03wiring_auto/spring03wiring_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04wiring_interface/spring04wiring_interface.iml" filepath="$PROJECT_DIR$/spring04wiring_interface/spring04wiring_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/tmy.iml" filepath="$PROJECT_DIR$/tmy.iml" />
     </modules>
   </component>

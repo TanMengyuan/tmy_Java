@@ -58,6 +58,7 @@ public class FirstExample {
             try{
                 if(stmt!=null)
                     stmt.close();
+                System.out.println("Closing database...");
             }catch(SQLException se2){
             }// nothing we can do
             try{
