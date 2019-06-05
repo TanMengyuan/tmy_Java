@@ -1,5 +1,6 @@
 package com.tmy.demo.service;
 
+import com.tmy.demo.AppConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
