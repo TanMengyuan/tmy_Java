@@ -4,6 +4,7 @@ import cn.itcast.domain.Account;
 import cn.itcast.domain.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
@@ -21,7 +22,7 @@ public class ParamController {
      * 请求参数绑定入门
      * @return
      */
-    @RequestMapping("/testParam")
+    @RequestMapping(value = "/testParam", method = {RequestMethod.GET})
     public String testParam(String username,String password){
         System.out.println("执行了...");
         System.out.println("用户名："+username);

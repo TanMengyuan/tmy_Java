@@ -18,5 +18,7 @@
 
     <a href="user/testRequestMapping?username=heihei">RequestMapping注解</a>
 
+    <a href="user/hhh" style="color: #000;">HHH</a>
+
 </body>
 </html>
