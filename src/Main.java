@@ -1,41 +1,26 @@
 public class Main {
+
+    private static int k = 2;
+
     public static void main(String[] args) {
-        Volant volant = new Angel();
-        volant.fly();
-        System.out.println(Volant.FLY_HIGHT);
+        System.out.println(Solution(1, 3));
+    }
 
-        Honest honest = new GoodMan();
-        honest.helpOther();
+    public static int Solution(int a, int b) {
+        int res = 0;
+        for (int i = a; i <= b; i++) {
+            res += fun(i);
+        }
 
-        BirdMan birdman = new BirdMan();
-        birdman.fly();
+        return res;
+    }
+
+    public static int fun(int length) {
+        int sum = 1;
+        int pn = length / k;
+        sum += pn * (length + 1) - k * (1 + pn) * pn / 2;
+
+        return sum;
     }
 }
-/**飞行接口*/
-interface Volant {
-    int FLY_HIGHT = 100;  // 总是：public static final类型的；
-    void fly();   //总是：public abstract void fly();
-}
-/**善良接口*/
-interface Honest {
-    void helpOther();
-}
-/**Angle类实现飞行接口和善良接口*/
-class Angel implements Volant, Honest{
-    public void fly() {
-        System.out.println("我是天使，飞起来啦！");
-    }
-    public void helpOther() {
-        System.out.println("扶老奶奶过马路！");
-    }
-}
-class GoodMan implements Honest {
-    public void helpOther() {
-        System.out.println("扶老奶奶过马路！");
-    }
-}
-class BirdMan implements Volant {
-    public void fly() {
-        System.out.println("我是鸟人，正在飞！");
-    }
-}
+
