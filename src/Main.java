@@ -7,16 +7,45 @@ import java.util.regex.*;
 public class Main {
 
 
-    public static void main(String[] args) {
+    /*请完成下面这个函数，实现题目要求的功能
+    当然，你也可以不按照下面这个模板来作答，完全按照自己的想法来 ^-^
+    ******************************开始写代码******************************/
+    static int schedule(int m,int[] array) {
+        int sum = 0;
+        int tmp = array.length / m;
+        for (int value : array) {
+            sum += value;
+        }
+        int index = 0;
+        int tmpSum = 0;
+        int out = 0;
+        while (index <= array.length - 1) {
+            if (tmpSum <= tmp) {
+                tmpSum = tmpSum + array[index];
+                index += 1;
+            } else {
+                if (out < tmpSum) {
+                    out = tmpSum;
+                }
+                tmpSum = 0;
+            }
+        }
 
-        int z;
-        int x = 5;
-        int y = -10;
-        int a = 4;
-        int b = 2;
+        return out;
 
-        z = x++ - --y * b / a;
+    }
+    /******************************结束写代码******************************/
 
-        System.out.println(z);
+
+    public static void main(String[] args){
+        Scanner in = new Scanner(System.in);
+        int m = in.nextInt();
+        int size  = in.nextInt();
+        int[] array = new int[size];
+        for(int i = 0; i < size; i++) {
+            array[i] = in.nextInt();
+        }
+        int res = schedule(m,array);
+        System.out.println(String.valueOf(res));
     }
 }
