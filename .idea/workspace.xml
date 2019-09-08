@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractDemo" />
       <module name="TestInterface" />
@@ -154,16 +154,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MammalInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MammalInt" />
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackDemo" />
       <module name="TestInterface" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackDemo" />
-      <module name="TestInterface" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="tmy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -493,7 +493,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MammalInt" />
       <item itemvalue="Application.AbstractDemo" />
       <item itemvalue="Application.StackDemo" />
       <item itemvalue="Application.Test2" />
@@ -501,14 +500,15 @@
       <item itemvalue="Tomcat Server.JavaWeb_Test" />
       <item itemvalue="Tomcat Server.springmvc" />
       <item itemvalue="Tomcat Server.param.jsp" />
+      <item itemvalue="Application.Test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.StackDemo" />
         <item itemvalue="Application.AbstractDemo" />
-        <item itemvalue="Application.MammalInt" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +557,7 @@
       <workItem from="1564475690107" duration="8351000" />
       <workItem from="1564554665467" duration="6186000" />
       <workItem from="1567339257642" duration="2998000" />
-      <workItem from="1567598351546" duration="6239000" />
+      <workItem from="1567598351546" duration="6663000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -601,7 +601,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567663925326</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20190906">
+      <created>1567776484115</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567776484115</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20190906">
+      <created>1567776624223</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567776624223</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -658,7 +672,8 @@
     <MESSAGE value="20190731" />
     <MESSAGE value="20190901" />
     <MESSAGE value="20190905" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190905" />
+    <MESSAGE value="20190906" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190906" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
