@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThreadExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
@@ -140,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadExample1">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tmy" />
@@ -505,8 +504,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadExample1" />
         <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.ThreadExample1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.StackDemo" />
@@ -558,7 +557,7 @@
       <workItem from="1564475690107" duration="8351000" />
       <workItem from="1564554665467" duration="6186000" />
       <workItem from="1567339257642" duration="2998000" />
-      <workItem from="1567598351546" duration="8136000" />
+      <workItem from="1567598351546" duration="9395000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -630,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568028320221</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20190911">
+      <created>1568202646710</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568202646710</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -690,7 +696,8 @@
     <MESSAGE value="20190906" />
     <MESSAGE value="20190908" />
     <MESSAGE value="20190909" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190909" />
+    <MESSAGE value="20190911" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190911" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
