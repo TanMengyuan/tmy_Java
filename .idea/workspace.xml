@@ -9,7 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
+    <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="20190912">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
@@ -557,7 +557,7 @@
       <workItem from="1564475690107" duration="8351000" />
       <workItem from="1564554665467" duration="6186000" />
       <workItem from="1567339257642" duration="2998000" />
-      <workItem from="1567598351546" duration="9395000" />
+      <workItem from="1567598351546" duration="12799000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -636,7 +636,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568202646710</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20190911">
+      <created>1568211964850</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568211964850</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
