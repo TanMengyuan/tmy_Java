@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ForProgram/ForProgram.iml" filepath="$PROJECT_DIR$/ForProgram/ForProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortLearn/SortLearn.iml" filepath="$PROJECT_DIR$/SortLearn/SortLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestInterface/TestInterface.iml" filepath="$PROJECT_DIR$/TestInterface/TestInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01quickstart/spring01quickstart.iml" filepath="$PROJECT_DIR$/spring01quickstart/spring01quickstart.iml" />

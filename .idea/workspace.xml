@@ -9,9 +9,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="20190912">
+    <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ForProgram/ForProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortLearn/SortLearn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortLearn/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortLearn/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortLearn/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortLearn/src/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +101,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -104,7 +114,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31764707" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -139,37 +149,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="tmy" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="SortLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackDemo" />
-      <module name="TestInterface" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="SortLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="SortLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <module name="SortLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test1" />
-      <module name="tmy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test2" />
-      <module name="TestInterface" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadExample1" />
       <module name="tmy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -493,22 +503,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StackDemo" />
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Tomcat Server.JavaWeb_Test" />
       <item itemvalue="Tomcat Server.springmvc" />
       <item itemvalue="Tomcat Server.param.jsp" />
       <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.ThreadExample1" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.ThreadExample1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.StackDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +567,7 @@
       <workItem from="1564475690107" duration="8351000" />
       <workItem from="1564554665467" duration="6186000" />
       <workItem from="1567339257642" duration="2998000" />
-      <workItem from="1567598351546" duration="12799000" />
+      <workItem from="1567598351546" duration="20108000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -643,7 +653,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568211964850</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20190915">
+      <created>1568558342001</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568558342001</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -704,12 +721,24 @@
     <MESSAGE value="20190908" />
     <MESSAGE value="20190909" />
     <MESSAGE value="20190911" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190911" />
+    <MESSAGE value="20190915" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190915" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
     <state width="758" height="626" key="Git.Branch.Popup/1920.1080" />
     <state width="758" height="626" key="Git.Branch.Popup@1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SortLearn/src/QuickSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
