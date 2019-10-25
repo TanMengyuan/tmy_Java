@@ -5,19 +5,9 @@ import java.util.List;
 
 public class Test1 {
     public static void main (String[] args) {
-        int i = 0;
-        while (0 >= ++i) {
-            System.out.println("111");
-        }
-    }
-
-    synchronized void setA() throws Exception{
-        Thread.sleep(1000);
-        setB();
-    }
-
-    synchronized void setB() throws Exception{
-        Thread.sleep(1000);
+        int b = 5;
+        int a = b+=b*=b%=3;
+        System.out.println(a);
     }
 
 }

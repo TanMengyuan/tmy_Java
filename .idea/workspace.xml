@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +108,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31764707" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -143,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyClass">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="SortLearn" />
@@ -501,15 +501,15 @@
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.MyClass" />
       <item itemvalue="Tomcat Server.JavaWeb_Test" />
       <item itemvalue="Tomcat Server.springmvc" />
       <item itemvalue="Tomcat Server.param.jsp" />
-      <item itemvalue="Application.MyClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
@@ -565,7 +565,16 @@
       <workItem from="1568887075072" duration="1026000" />
       <workItem from="1569049550820" duration="427000" />
       <workItem from="1569120394772" duration="3707000" />
-      <workItem from="1569897175973" duration="1523000" />
+      <workItem from="1569897175973" duration="3349000" />
+      <workItem from="1570620515484" duration="589000" />
+      <workItem from="1570629714782" duration="347000" />
+      <workItem from="1570682802189" duration="508000" />
+      <workItem from="1570690861465" duration="240000" />
+      <workItem from="1570761149259" duration="2517000" />
+      <workItem from="1570889311040" duration="207000" />
+      <workItem from="1570975372349" duration="904000" />
+      <workItem from="1571126081197" duration="1520000" />
+      <workItem from="1571368323278" duration="247000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -679,7 +688,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570407389781</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="20191009">
+      <created>1570613541809</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570613541809</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -744,7 +760,8 @@
     <MESSAGE value="20190917" />
     <MESSAGE value="20190921" />
     <MESSAGE value="20191007" />
-    <option name="LAST_COMMIT_MESSAGE" value="20191007" />
+    <MESSAGE value="20191009" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191009" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
