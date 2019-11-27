@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +143,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="tmy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="SortLearn" />
@@ -160,13 +167,6 @@
     </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuickSort" />
-      <module name="SortLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="SortLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -498,21 +498,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.MyClass" />
       <item itemvalue="Tomcat Server.JavaWeb_Test" />
       <item itemvalue="Tomcat Server.springmvc" />
       <item itemvalue="Tomcat Server.param.jsp" />
+      <item itemvalue="Application.Example" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -575,6 +575,11 @@
       <workItem from="1570975372349" duration="904000" />
       <workItem from="1571126081197" duration="1520000" />
       <workItem from="1571368323278" duration="247000" />
+      <workItem from="1571987340737" duration="1608000" />
+      <workItem from="1572000756128" duration="393000" />
+      <workItem from="1572069945426" duration="2158000" />
+      <workItem from="1572251017107" duration="435000" />
+      <workItem from="1574825938953" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -695,7 +700,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570613541809</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="20191025">
+      <created>1571987368811</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571987368811</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -761,7 +773,8 @@
     <MESSAGE value="20190921" />
     <MESSAGE value="20191007" />
     <MESSAGE value="20191009" />
-    <option name="LAST_COMMIT_MESSAGE" value="20191009" />
+    <MESSAGE value="20191025" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191025" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
