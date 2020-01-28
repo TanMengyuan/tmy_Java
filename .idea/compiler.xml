@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring04wiring_interface" />
-        <module name="springmvc_day01_01_start" />
         <module name="spring03wiring_auto" />
         <module name="spring01quickstart" />
       </profile>

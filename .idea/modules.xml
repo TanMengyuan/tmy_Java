@@ -10,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/spring01quickstart/spring01quickstart.iml" filepath="$PROJECT_DIR$/spring01quickstart/spring01quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring03wiring_auto/spring03wiring_auto.iml" filepath="$PROJECT_DIR$/spring03wiring_auto/spring03wiring_auto.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring04wiring_interface/spring04wiring_interface.iml" filepath="$PROJECT_DIR$/spring04wiring_interface/spring04wiring_interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springmvc_day01_01_start/springmvc_day01_01_start.iml" filepath="$PROJECT_DIR$/springmvc_day01_01_start/springmvc_day01_01_start.iml" />
       <module fileurl="file://$PROJECT_DIR$/tmy.iml" filepath="$PROJECT_DIR$/tmy.iml" />
     </modules>
   </component>

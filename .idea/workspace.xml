@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -501,10 +500,10 @@
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.MyClass" />
+      <item itemvalue="Application.Example" />
       <item itemvalue="Tomcat Server.JavaWeb_Test" />
       <item itemvalue="Tomcat Server.springmvc" />
       <item itemvalue="Tomcat Server.param.jsp" />
-      <item itemvalue="Application.Example" />
     </list>
     <recent_temporary>
       <list>
@@ -579,7 +578,18 @@
       <workItem from="1572000756128" duration="393000" />
       <workItem from="1572069945426" duration="2158000" />
       <workItem from="1572251017107" duration="435000" />
-      <workItem from="1574825938953" duration="1233000" />
+      <workItem from="1574825938953" duration="6436000" />
+      <workItem from="1575095273678" duration="918000" />
+      <workItem from="1575289693507" duration="2921000" />
+      <workItem from="1576393867987" duration="2749000" />
+      <workItem from="1577166338487" duration="840000" />
+      <workItem from="1577444056616" duration="1087000" />
+      <workItem from="1577705389090" duration="308000" />
+      <workItem from="1577872952493" duration="563000" />
+      <workItem from="1578109007399" duration="414000" />
+      <workItem from="1578222546008" duration="347000" />
+      <workItem from="1578308898009" duration="455000" />
+      <workItem from="1579002849240" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -707,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571987368811</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="20191127">
+      <created>1574857925385</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574857925386</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -774,7 +791,8 @@
     <MESSAGE value="20191007" />
     <MESSAGE value="20191009" />
     <MESSAGE value="20191025" />
-    <option name="LAST_COMMIT_MESSAGE" value="20191025" />
+    <MESSAGE value="20191127" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191127" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
