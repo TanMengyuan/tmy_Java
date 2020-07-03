@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testnetty/src/main/java/NettyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/testnetty/src/main/java/NettyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testnetty/src/main/java/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/testnetty/src/main/java/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnetty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testnetty/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -374,7 +372,7 @@
       <workItem from="1584866274323" duration="204000" />
       <workItem from="1585373196941" duration="894000" />
       <workItem from="1592021325631" duration="6544000" />
-      <workItem from="1593748858952" duration="7977000" />
+      <workItem from="1593748858952" duration="8214000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -523,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593749695192</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="test Netty">
+      <created>1593765554130</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1593765554130</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +567,8 @@
     <MESSAGE value="20191127" />
     <MESSAGE value="20200128" />
     <MESSAGE value="20200703" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200703" />
+    <MESSAGE value="test Netty" />
+    <option name="LAST_COMMIT_MESSAGE" value="test Netty" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
