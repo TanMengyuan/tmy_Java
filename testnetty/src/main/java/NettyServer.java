@@ -11,10 +11,11 @@ public class NettyServer {
     public static void main(String[] args) {
         ServerBootstrap serverBootstrap = new ServerBootstrap();
 
-        NioEventLoopGroup boos = new NioEventLoopGroup();
+        NioEventLoopGroup boss = new NioEventLoopGroup();
         NioEventLoopGroup worker = new NioEventLoopGroup();
+        System.out.println("Netty server is started.");
         serverBootstrap
-                .group(boos, worker)
+                .group(boss, worker)
                 .channel(NioServerSocketChannel.class)
                 .childHandler(new ChannelInitializer<NioSocketChannel>() {
                     protected void initChannel(NioSocketChannel ch) {
