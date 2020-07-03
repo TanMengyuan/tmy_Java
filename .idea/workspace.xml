@@ -5,12 +5,49 @@
   </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springmvc_day01_01_start:war exploded" />
+      <artifact name="JavaWeb:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692b20e-51ef-4e17-9703-e23e6cb8e1c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testnetty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testnetty/src/main/java/NettyClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForProgram/ForProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ForProgram/ForProgram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tmy/img/ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tmy/img/desk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BallGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BallGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BallGame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BallGame2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/HelloWorld2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JBDC_learning/DbUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/JBDC_learning/DbUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JBDC_learning/FirstExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/JBDC_learning/FirstExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Learn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestList.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestStringFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestStringFun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ThreadExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ball.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/img/ball.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/desk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test/img/desk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tmy.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,15 +99,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find />
-      <find>showpush</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>showPush</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -93,6 +121,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -107,11 +136,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31764707" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Java\workspace\tmy_Java\springmvc_day01_01_start" />
+      <recent name="G:\Java\workspace\tmy_Java" />
+      <recent name="G:\Java\workspace\tmy_Java\JavaBasic" />
+      <recent name="G:\Java\workspace\tmy_Java\Java_Basic" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="com.tmy.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Java\workspace\tmy_Java\springmvc_day01_01_start" />
@@ -119,15 +159,6 @@
       <recent name="G:\Java\workspace\tmy_Java\springmvc_day01_01_start\src\main\java" />
       <recent name="G:\Java\workspace\tmy_Java\springmvc_day01_01_start\src\main\java\com\tmy\controller" />
       <recent name="G:\Java\workspace\tmy_Java\spring04wiring_interface\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="hello" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Java\workspace\tmy_Java\springmvc_day01_01_start" />
-      <recent name="G:\Java\workspace\tmy_Java" />
-      <recent name="G:\Java\workspace\tmy_Java\JavaBasic" />
-      <recent name="G:\Java\workspace\tmy_Java\Java_Basic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -142,118 +173,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example" />
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tmy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
-      <module name="SortLearn" />
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NettyClient" />
+      <module name="testnetty" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyClass" />
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NettyServer" />
+      <module name="testnetty" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="tmy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort" />
-      <module name="SortLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test1" />
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2" />
       <module name="tmy" />
       <method v="2">
         <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaWeb_Test" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
-      <deployment>
-        <artifact name="JavaWeb:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/JavaWeb_war_exploded" />
-          </settings>
-        </artifact>
-        <artifact name="springmvc_day01_01_start:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/springmvc_day01_01_start_war" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_tmy_Java" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10616" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="JavaWeb:war exploded" />
-          <artifact name="springmvc_day01_01_start:war" />
-        </option>
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -348,170 +301,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="param.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/param.jsp" />
-      <option name="UPDATING_POLICY" value="hot-swap-classes" />
-      <deployment>
-        <artifact name="springmvc_day01_01_start:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_tmy_Java" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10616" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc_day01_01_start:war" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="springmvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="springmvc_day01_01_start:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_tmy_Java_4" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10616" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc_day01_01_start:war" />
-        </option>
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.InsertionSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.MyClass" />
-      <item itemvalue="Application.Example" />
-      <item itemvalue="Tomcat Server.JavaWeb_Test" />
-      <item itemvalue="Tomcat Server.springmvc" />
-      <item itemvalue="Tomcat Server.param.jsp" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.problem2" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.NettyClient" />
+      <item itemvalue="Application.NettyServer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +392,24 @@
       <workItem from="1578109007399" duration="414000" />
       <workItem from="1578222546008" duration="347000" />
       <workItem from="1578308898009" duration="455000" />
-      <workItem from="1579002849240" duration="1235000" />
+      <workItem from="1579002849240" duration="1425000" />
+      <workItem from="1581081471147" duration="7106000" />
+      <workItem from="1581847551316" duration="997000" />
+      <workItem from="1582028549464" duration="598000" />
+      <workItem from="1582341846371" duration="139000" />
+      <workItem from="1582342002626" duration="158000" />
+      <workItem from="1582374103379" duration="19000" />
+      <workItem from="1582374141441" duration="952000" />
+      <workItem from="1582465272583" duration="1743000" />
+      <workItem from="1582599789996" duration="267000" />
+      <workItem from="1582628021039" duration="541000" />
+      <workItem from="1582956166923" duration="351000" />
+      <workItem from="1583049351638" duration="237000" />
+      <workItem from="1584079814665" duration="1131000" />
+      <workItem from="1584866274323" duration="204000" />
+      <workItem from="1585373196941" duration="894000" />
+      <workItem from="1592021325631" duration="6544000" />
+      <workItem from="1593748858952" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="20190717">
       <created>1563327995219</created>
@@ -724,40 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1574857925386</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="20200128">
+      <created>1580216025604</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580216025604</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="AppTest - 2019.05.29 at 20h 46m 13s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest - 2019.05.30 at 09h 35m 21s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest - 2019.05.30 at 09h 37m 43s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest - 2019.05.30 at 09h 38m 14s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest - 2019.05.30 at 09h 39m 46s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest_testAdd - 2019.05.30 at 10h 10m 00s.xml">
-      <configuration name="UserServiceTest.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest - 2019.05.30 at 10h 10m 28s.xml">
-      <configuration name="UserServiceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserServiceTest - 2019.05.30 at 10h 19m 43s.xml">
-      <configuration name="UserServiceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_testAdd - 2019.06.02 at 14h 17m 06s.xml">
-      <configuration name="UserControllerTest.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest - 2019.06.02 at 14h 19m 27s.xml">
-      <configuration name="UserControllerTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -776,6 +571,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="20190717" />
     <MESSAGE value="20190730" />
     <MESSAGE value="20190731" />
@@ -792,15 +588,30 @@
     <MESSAGE value="20191009" />
     <MESSAGE value="20191025" />
     <MESSAGE value="20191127" />
-    <option name="LAST_COMMIT_MESSAGE" value="20191127" />
+    <MESSAGE value="20200128" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200128" />
   </component>
   <component name="WindowStateProjectService">
     <state width="758" height="626" key="Git.Branch.Popup" />
     <state width="758" height="626" key="Git.Branch.Popup/1920.1080" />
     <state width="758" height="626" key="Git.Branch.Popup@1920.1080" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tmy_Java$Main.ic" NAME="Main Coverage Results" MODIFIED="1592036874731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
